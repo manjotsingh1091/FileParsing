@@ -1,0 +1,8 @@
+com\project\fileParser\FileParserApp.class
+com\project\fileParser\config\FileParserForXml.class
+com\project\fileParser\dto\Text.class
+com\project\fileParser\config\FileParsingException.class
+com\project\fileParser\dto\Sentence.class
+com\project\fileParser\service\FileParserServiceImpl.class
+com\project\fileParser\service\FileParserService.class
+com\project\fileParser\config\AppConfigFileParser.class
